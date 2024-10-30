@@ -8,7 +8,7 @@ Este repositorio contiene el código y los resultados asociados al uso del **Con
 ## Contenido del Repositorio  
 
 - **`MPC-SIR.ipynb`**: Contiene el código principal donde se realizan las simulaciones del modelo SIR con control MPC.
-- **`/graficas/`**: Carpeta que almacena gráficos de los experimentos realizados anteriormente. Cada gráfico refleja los resultados de diferentes configuraciones del MPC, como horizontes de control y predicción, o el uso de distintas funciones de costo.
+- **`/Exp MPC/`**: Carpeta que almacena gráficos de los experimentos realizados anteriormente. Cada gráfico refleja los resultados de diferentes configuraciones del MPC, como horizontes de control y predicción, o el uso de distintas funciones de costo.
 
 ---
 
